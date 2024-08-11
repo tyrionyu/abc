@@ -11,3 +11,14 @@ print('Luck_num的数据类型时：',type(luck_num))
 num=number=1024
 print(id(num))  #id()查看对象的内存地址 4513451632
 print(id(number))   #4513451632
+
+'''
+使用变量保存数据并进行加减乘除运算
+'''
+a=100
+b=13
+print(a+b)
+print(a-b)
+print(a*b)
+print(a/b)
+print(a//b)
