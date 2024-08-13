@@ -1,5 +1,6 @@
-score=input('请输入成绩等级：')
-match score:
+x = 'A'
+
+match x:
     case 'A':
         print('优秀')
     case 'B':
