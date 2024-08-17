@@ -1,4 +1,4 @@
-for i in 'hello':
-    if i=='e':
+for i in 'hello,world':
+    if i=='d':
         break
     print(i)
